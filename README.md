@@ -1,8 +1,6 @@
-# CleanArchitectureNoteApp
+During the project 
 
-
-During the project I have used following technologies
-
+I have used following technologies
 MVVM
 Kotlin
 Clean Architecture
@@ -13,4 +11,3 @@ Jetpack Compose
 DI Dagger Hilt
 ViewModel
 Room
-
